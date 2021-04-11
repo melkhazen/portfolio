@@ -1,0 +1,46 @@
+/* Start global */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #eee;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: url("../images/sitebg.jpg");
+}
+/* End global */
+
+
+/* Start reudsable */
+
+/* End reusable */
+
+
+/* Start header */
+
+/* End header */
+
+
+/* Start about */
+
+/* End about */
+
+
+ /* Start services */
+
+ /* End services */
+
+
+ /* Start portfolio */
+
+ /* End portfolio */
+
+
+ /*  */
